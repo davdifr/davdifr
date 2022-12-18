@@ -1,16 +1,15 @@
-### Hi there 👋
+<a href="https://stackoverflow.com/users/story/5679285"><img align="left" src="https://github-readme-stackoverflow.vercel.app/?userID=20013961&theme=light" height="250"></a>
 
-<!--
-**davdifr/davdifr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hello everyone! 👋
 
-Here are some ideas to get you started:
+My name is Davide, and I am a web developer primarily interested in front-end. \
+Currently, I am in the process of restoring my GitHub profile, so please bear with me as I update and organize my repositories. \
+On my profile, you will find my solutions to challenges and exercises proposed by various learning and training sites. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Thank you for visiting my profile, and I hope you find my projects and resources helpful and interesting. \
+Feel free to reach out to me with any questions or comments, and I'll be happy to help!
+
+
+### Skills and Expertise
+[![Front-end](https://skillicons.dev/icons?i=html,css,js,react,tailwind)](#)
+[![Back-end](https://skillicons.dev/icons?i=nodejs,express,mongodb)](#)
