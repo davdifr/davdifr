@@ -2,9 +2,7 @@
 
 ## Hello everyone! 👋
 
-My name is Davide, and I am a web developer primarily interested in front-end.
-
-*Currently, I am in the process of restoring my GitHub profile, so please bear with me as I update and organize my repositories.*
+My name is Davide, and I am a passionate web developer primarily interested in front-end.
 
 ### What you will find here 🔍
 
@@ -18,5 +16,4 @@ My name is Davide, and I am a web developer primarily interested in front-end.
 [![Back-end](https://skillicons.dev/icons?i=nodejs,express,mongodb)](#)
 
 
-Thank you for visiting my profile, and I hope you find my projects and resources helpful and interesting. \
-Feel free to reach out to me with any questions or comments, and I'll be happy to help!
+*Thank you for visiting my profile, and I hope you find my projects and resources helpful and interesting.*
