@@ -11,9 +11,9 @@ My name is Davide, and I am a passionate web developer primarily interested in f
 - Configurations that I use in my development environment
 
 ### Skills and Expertise
-[![Front-end](https://skillicons.dev/icons?i=html,css,js,react,tailwind,solidity)](#)
+[![Front-end](https://skillicons.dev/icons?i=html,css,js,tailwind,solidity)](#)
 ### Ongoing interests and studies
-[![Back-end](https://skillicons.dev/icons?i=nodejs,express,mongodb)](#)
+[![Back-end](https://skillicons.dev/icons?i=react,nodejs,express,mongodb,rust)](#)
 
 
 *Thank you for visiting my profile, and I hope you find my projects and resources helpful and interesting.*
