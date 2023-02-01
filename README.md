@@ -18,9 +18,9 @@ I have had the opportunity to work on several NFT projects and create landing pa
 - Configurations that I use in my development environment
 
 ### Skills and Expertise
-[![Front-end](https://skillicons.dev/icons?i=html,css,js,tailwind,solidity)](#)
+[![Front-end](https://skillicons.dev/icons?i=html,css,js)](#)
 ### Ongoing interests and studies
-[![Back-end](https://skillicons.dev/icons?i=react,nodejs,express,mongodb,rust)](#)
+[![Back-end](https://skillicons.dev/icons?i=react,tailwind,solidity,nodejs,express,mongodb,rust)](#)
 
 
 *Thank you for visiting my profile, and I hope you find my projects and resources helpful and interesting.*
