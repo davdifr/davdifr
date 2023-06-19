@@ -16,7 +16,7 @@ I have had the opportunity to work on several NFT projects and create landing pa
 - Configurations that I use in my development environment
 
 ### Ongoing interests and studies
-[![interests](https://skillicons.dev/icons?i=js,rust,react,tailwind,solidity)](#)
+[![interests](https://skillicons.dev/icons?i=js,rust,angular,react,tailwind,solidity)](#)
 
 
 *Thank you for visiting my profile, and I hope you find my projects and resources helpful and interesting.*
