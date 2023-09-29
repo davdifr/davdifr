@@ -13,6 +13,6 @@ I'm Davide, a passionate web developer with a strong focus on front-end developm
 - My personalized development environment configurations.
 
 ### Ongoing Interests and Studies
-[![interests](https://skillicons.dev/icons?i=typescript,angular,javascript,tailwindcss)](#)
+[![interests](https://skillicons.dev/icons?i=typescript,angular,javascript,firebase)](#)
 
 *Thank you for visiting my profile! I hope you find my projects and resources helpful.*
