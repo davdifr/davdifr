@@ -62,11 +62,11 @@ I am currently cultivating the following interests:
 
 ---
 
-### Future Goals
+<!-- ### Future Goals
 
 🎯 My current objective is to achieve a Senior-level position as part of my ongoing professional growth.
 
----
+--- -->
 
 ### Languages
 
