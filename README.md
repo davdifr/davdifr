@@ -77,6 +77,6 @@ I am currently cultivating the following interests:
 
 ### Connect with Me
 
-- [LinkedIn](www.linkedin.com/in/davdifr)
+- [LinkedIn](https://www.linkedin.com/in/davdifr)
 - [Twitter](https://twitter.com/davdifr)
 
