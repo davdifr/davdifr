@@ -51,6 +51,7 @@ I am currently cultivating the following interests:
 ### Certifications and Courses
 
 - Udemy Course: [Angular - The Complete Guide (2023 Edition)](https://www.udemy.com/certificate/UC-e4dda295-9c78-441b-aae1-451db0c1ad44/), [Build Responsive Real-World Websites with HTML and CSS](https://www.udemy.com/certificate/UC-2bec81d8-67ef-468e-97d8-07ad6bb58936/), [The Complete JavaScript Course 2023](https://www.udemy.com/certificate/UC-cd23a732-be62-4d21-857a-4799f2bfba2a/), [Tailwind CSS From Scratch](https://www.udemy.com/certificate/UC-1566c965-c264-48f5-b70a-8916b6ca1aba/), [Vim Masterclass](https://www.udemy.com/certificate/UC-9430aefe-8fd0-4451-b134-643ee7bc9aa/)
+- "[The Last Algorithms Course You'll Need](https://frontendmasters.com/courses/algorithms/)" by [@ThePrimeagen](https://twitter.com/ThePrimeagen)
 
 ---
 
