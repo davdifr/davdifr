@@ -1,10 +1,10 @@
-## Hello there! 👋
+## Hello there!
 
 I'm Davide, a passionate web developer with a strong focus on front-end development using TypeScript and Angular.
 
-🚀 I thrive on collaboration and enjoy brainstorming and tackling challenges with fellow developers.
+I thrive on collaboration and enjoy brainstorming and tackling challenges with fellow developers.
 
-📚 I'm committed to staying up-to-date with the latest trends and technologies in the ever-evolving web development landscape.
+I'm committed to staying up-to-date with the latest trends and technologies in the ever-evolving web development landscape.
 
 ---
 
@@ -65,9 +65,9 @@ I am currently cultivating the following interests:
 
 ### Soft Skills
 
-- Strong problem-solving skills ✨
-- Effective communication and collaboration in team environments 🤝
-- Proactive approach to learning and adapting to new technologies 🌱
+- Strong problem-solving skills
+- Effective communication and collaboration in team environments
+- Proactive approach to learning and adapting to new technologies
 
 ---
 
