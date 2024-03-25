@@ -28,7 +28,6 @@ I'm Davide, a passionate web developer with a strong focus on front-end developm
 
 #### On-chain Digital Credentials through NFTs
 Project crafted to explore the integration of blockchain technology in developing digital credentials, resembling Verified Credentials (VC) or OpenBadges, presented as Non-Fungible Tokens.
-
 By leveraging NFTs, the project aimed to provide a unique and tamper-resistant method for verifying users' digital identities, offering potential applications in online authentication scenarios.
 
 *Technologies used: JavaScript, Solidity.*
