@@ -36,8 +36,6 @@ By leveraging NFTs, the project aimed to provide a unique and tamper-resistant m
 - **Back-End:** Node.js, Nestjs
 - **Tools:** Git, VS Code, NeoVim
 
----
-
 ### Ongoing Interests
 
 <!-- [![ongoing-interests](https://skillicons.dev/icons?i=rust,firebase)](#) -->
