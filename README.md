@@ -10,15 +10,15 @@ I'm Davide, a passionate web developer with a strong focus on front-end developm
 
 ### Experience
 
-#### Frontend Developer | Gunpowder S.r.l (05/2023 - Present)
-*L'Aquila, Abruzzi, Italy · On-site*
+#### Frontend Developer | Gunpowder S.r.l
+*05/2023 - Present · L'Aquila, Abruzzi, Italy · On-site*
 - Spearheaded the development of customer-facing applications using Angular and TypeScript, delivering tailored features to meet client requirements.
 - Applied responsive design principles, ensuring an optimal user experience across various devices.
 - Collaborated with the backend team on integration, enhancing overall application functionality.
 - Embarking on backend development responsibilities, utilizing Nestjs as a framework for upcoming projects.
 
-#### Community Manager | VR Future (02/2022 - 08/2022)
-*Istanbul, Turkey · Remote*
+#### Community Manager | VR Future
+*02/2022 - 08/2022 · Istanbul, Turkey · Remote*
 - Managed VR enthusiast communities, enhancing engagement through strategic use of social media, leading to increased brand interaction.
 - Designed and executed targeted online events and campaigns, raising brand visibility and driving user feedback for product development insights.
 
@@ -82,10 +82,11 @@ I am currently cultivating the following interests:
 - Italian (Native)
 - English (Fluent)
 
+<!--
 ---
 
 ### Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/davdifr)
 - [Twitter](https://twitter.com/davdifr)
-
+-->
