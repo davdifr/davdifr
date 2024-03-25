@@ -36,7 +36,7 @@ By leveraging NFTs, the project aimed to provide a unique and tamper-resistant m
 
 ### Skills
 
-[![interests](https://skillicons.dev/icons?i=typescript,javascript,angular,nodejs,nestjs)](#)
+<!-- [![interests](https://skillicons.dev/icons?i=typescript,javascript,angular,nodejs,nestjs)](#) -->
 
 - **Front-End:** Angular, TypeScript, JavaScript, HTML, CSS
 - **Back-End:** Node.js, Nestjs
@@ -46,7 +46,7 @@ By leveraging NFTs, the project aimed to provide a unique and tamper-resistant m
 
 ### Ongoing Interests
 
-[![ongoing-interests](https://skillicons.dev/icons?i=rust,firebase)](#)
+<!-- [![ongoing-interests](https://skillicons.dev/icons?i=rust,firebase)](#) -->
 
 I am currently cultivating the following interests:
 
