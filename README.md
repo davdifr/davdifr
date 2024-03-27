@@ -6,7 +6,7 @@ I thrive on collaboration and enjoy brainstorming and tackling challenges with f
 
 I'm committed to staying up-to-date with the latest trends and technologies in the ever-evolving web development landscape.
 
-### Experience
+## Experience
 
 #### Frontend Developer | Gunpowder S.r.l
 *05/2023 - Present · L'Aquila, Abruzzi, Italy · On-site*
