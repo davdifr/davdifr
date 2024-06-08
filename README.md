@@ -15,6 +15,7 @@ _05/2023 - Present · L'Aquila, Abruzzi, Italy · On-site_
 -   Spearheaded the development of customer-facing applications using Angular and TypeScript, delivering tailored features to meet client requirements.
 -   Applied responsive design principles, ensuring an optimal user experience across various devices.
 -   Collaborated with the backend team on integration, enhancing overall application functionality.
+-   Conducted training sessions for team members on Angular, enhancing their skills and knowledge in the framework.
 
 #### Community Manager | VR Future
 
