@@ -33,6 +33,11 @@ By leveraging NFTs, the project aimed to provide a unique and tamper-resistant m
 
 _Technologies used: JavaScript, Solidity._
 
+#### AI-Powered Document Generation
+This project uses artificial intelligence to help create documents easily. Users choose a template and a knowledge base, which generates a form to fill out. Based on the provided information, the AI creates a section of the document. This makes document creation faster and ensures the content is accurate and consistent.
+
+_Technologies used: Angular, NgRx, OpenAI GPT-4.
+
 <!-- ### Skills
 
 [![interests](https://skillicons.dev/icons?i=typescript,javascript,angular,nodejs,nestjs)](#)
