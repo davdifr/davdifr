@@ -1,6 +1,6 @@
 ## Hello there! 👋
 
-I'm Davide, a passionate web developer with a strong focus on front-end development using TypeScript and Angular.
+I'm Davide, a passionate web developer with a strong focus on front-end development using Angular.
 
 ---
 
@@ -9,16 +9,13 @@ I'm Davide, a passionate web developer with a strong focus on front-end developm
 #### Frontend Developer @ Gunpowder S.r.l
 _`05/2023 - Present` L'Aquila, Abruzzi, Italy · On-site_
 
-- Spearheaded the development of customer-facing applications using Angular and TypeScript, delivering tailored features to meet client requirements.
-- Applied responsive design principles, ensuring an optimal user experience across various devices.
-- Collaborated with the backend team on integration, enhancing overall application functionality.
-- Conducted training sessions for team members on Angular, enhancing their skills and knowledge in the framework.
+- Contributed to team learning by organizing Angular training sessions and sharing practical insights.
+- Built customer-facing applications with Angular and TypeScript, delivering features based on client needs.
 
 #### Community Manager @ VR Future
 _`02/2022 - 08/2022` Istanbul, Turkey · Remote_
 
-- Managed VR enthusiast communities, enhancing engagement through strategic use of social media, leading to increased brand interaction.
-- Designed and executed targeted online events and campaigns, raising brand visibility and driving user feedback for product development insights.
+- Organized online events and campaigns to grow brand visibility and gather user feedback for product improvements.
 
 ---
 
