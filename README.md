@@ -6,8 +6,8 @@ I'm Davide, a passionate web developer with a strong focus on front-end developm
 
 ### Experience
 
-#### Frontend Developer @ Gunpowder S.r.l
-_`05/2023 - Present` L'Aquila, Abruzzi, Italy · On-site_
+#### Frontend Developer @ SEIDOR
+_`05/2023 - Present` L'Aquila, Abruzzi, Italy · Hybrid_
 
 - Contributed to team learning by organizing Angular training sessions and sharing practical insights.
 - Built customer-facing applications with Angular and TypeScript, delivering features based on client needs.
