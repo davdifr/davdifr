@@ -21,7 +21,7 @@ _`02/2022 - 08/2022` Istanbul, Turkey · Remote_
 
 ### Projects
 
-#### <img src="assets/ordiclick.svg" alt="" width="20" height="20"> [OrdiClick](https://ordiclick.it)
+#### <img src="assets/ordiclick.svg" alt="" width="20" height="20" align="center"> [OrdiClick](https://ordiclick.it)
 An online ordering and management platform for restaurants. Venues publish daily menus on their own subdomain with a QR code, collect pickup and delivery orders, and follow each order from the kitchen to completion. Optional modules such as reservations, table ordering, loyalty cards, multilingual menus and analytics can be switched on and off from the admin panel, each with its own monthly subscription. The admin panel is designed for non-technical staff working mid-service, with WCAG 2.2 AA accessibility as a baseline.
 
 _Technologies used: Angular, TypeScript, Supabase (PostgreSQL), Stripe, Vercel._
